@@ -1,9 +1,9 @@
 html {
-  background-color: #000000;
+  background-color: #B6C197;
 }
-#intro {
-  font-size: 14px;
-  color: #00AAFF;
+
+a {
+  border-radius: 50%;
 }
 
 a:link, a:visited {
@@ -19,6 +19,26 @@ a:hover, a:active {
   background-color: green;
 }
 
-nav {
-  background-color: #4d6600;
+#food {
+  width: 450px;
+  height: 450px;
+}
+
+#knives {
+  width: 500px;
+  height: 500px;
+}
+
+.floatRight {
+  float: right;
+  width: 50%;
+}
+
+.floatLeft {
+  float: left;
+  width: 50%;
+}
+
+#games {
+  width: 50%;
 }
