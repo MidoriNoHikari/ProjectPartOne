@@ -1,5 +1,6 @@
 html {
   background-color: #B6C197;
+  font-family: "Courier New", Courier, monospace;
 }
 
 a {
@@ -24,5 +25,13 @@ li {
 }
 
 .school > li {
+  font-weight: bold;
+}
+
+.spacer {
+  margin: 0 25px 0 25px;
+}
+
+.position {
   font-weight: bold;
 }
